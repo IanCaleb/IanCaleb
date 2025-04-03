@@ -190,4 +190,4 @@ Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou 
 </p>
 
 
-- 📖 Estudando Laravel
+
