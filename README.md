@@ -2,9 +2,18 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-Ce. Sou apaixonado por... 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+    <tr>
+        <td width="70%" style="border: none;">
+            Me chamo Ian Caleb, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-CE. Sou apaixonado por...
+        </td>
+        <td width="30%" align="right" style="border: none;">
+            <img src="CutCat.gif" alt="GIF CutCat" width="150">
+        </td>
+    </tr>
+</table>
 
-<img alt="CutCat" title="GatoFofo" src="CutCat"/>
+
 <p>
   <a href="https://github.com/IanCaleb?tab=repositories">
     <img 
