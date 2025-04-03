@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-Ce. Sou apaixonado por... add link "[teste](mailto:ivusaw1227@gmail.com)"
+Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-Ce. Sou apaixonado por... 
 
 <p>
   <a href="https://github.com/IanCaleb?tab=repositories">
@@ -19,7 +19,7 @@ Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou 
       src="https://custom-icon-badges.demolab.com/badge/Juazeiro-PE-blue?style=for-the-badge&logo=location&logoColor=white"
     />
   </a>
-  <a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivusaw1227@gmail.com&su=Contato%20do%20GitHub&body=Olá,%20vim%20pelo%20seu%20github%20e%20gostaria%20de%20falar%20sobre...">
     <img
       alt="Email"
       title="Email"
