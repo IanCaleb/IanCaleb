@@ -4,6 +4,7 @@
 
 Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-Ce. Sou apaixonado por... 
 
+<img alt="CutCat" title="GatoFofo" src="CutCat"/>
 <p>
   <a href="https://github.com/IanCaleb?tab=repositories">
     <img 
