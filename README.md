@@ -186,9 +186,13 @@ Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou 
   />
 </div>
 
-![Snake gif](https://github.com/IanCaleb/IanCaleb/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/snake.svg" alt="Snake animation" />
 
-[![readme](https://github-readme-status.vercel.app/api/pin/?username=IanCaleb&theme=react)](https://github.com/IanCaleb/IanCaleb)
+<picture>
+  <source media="(preference-color-scheme: dark)" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake-dark.svg" />
+  <source media="(preference-color-scheme: light)" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake.svg">
+<picture>
 
 
 
