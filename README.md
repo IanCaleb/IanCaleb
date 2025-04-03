@@ -8,7 +8,7 @@
             Me chamo Ian Caleb, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-CE. Sou apaixonado por...
         </td>
         <td width="30%" align="right" style="border: none;">
-            <img src="CutCat.gif" alt="GIF CutCat" width="150">
+            <img src="CutCat_loop.gif" alt="GIF CutCat" width="150">
         </td>
     </tr>
 </table>
