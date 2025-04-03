@@ -2,19 +2,41 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-Ce. Sou apaixonado por... add link "[teste](https://www.youtube.com/watch?v=_ywEP-BhTHw)"
+Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-Ce. Sou apaixonado por... add link "[teste](mailto:ivusaw1227@gmail.com)"
 
 <p>
-  <a href="https://www.youtube.com/watch?v=_ywEP-BhTHw">
+  <a href="https://github.com/IanCaleb?tab=repositories">
     <img 
       alt="Repositorios" 
       title="Repositorios"
       src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
     />
-    
   </a>
+  <a>
+    <img 
+      alt="Localização" 
+      title="Localização"
+      src="https://custom-icon-badges.demolab.com/badge/Juazeiro-PE-blue?style=for-the-badge&logo=location&logoColor=white"
+    />
+  </a>
+  <a>
+    <img
+      alt="Email"
+      title="Email"
+      src="https://custom-icon-badges.demolab.com/badge/My%20Email-E61B23.svg?logo=mail"
+      width="110"
+      >
+  </a>
+  <br>
+    <img
+      alt="Lest-commit" 
+      title="Lest-commit"
+      src="https://custom-icon-badges.demolab.com/github/last-commit/IanCaleb/IanCaleb?logo=history&logoColor=white"
+      height="25"
+    />
+
+  
 </p>
-<br>
 
 
 
@@ -168,17 +190,4 @@ Me chamo Ian Caleb, tenho 19 anos e sou natural do Pernabuco. Atualmente, estou 
 </p>
 
 
-<!--
-**IanCaleb/IanCaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Estudando Laravel
