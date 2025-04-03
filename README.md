@@ -5,7 +5,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
         <td width="70%" style="border: none;">
-            Me chamo Ian Caleb, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-CE. Sou apaixonado por...
+            Me chamo Ian Caleb, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-CE. Sempre fui apaixonado por desafios que me façam pensar de forma criativa para soluciona-los e encontrei na programação o ambiente perfeito para achar esse tipo de desafios.
         </td>
         <td width="30%" align="right" style="border: none;">
             <img src="CutCat.gif" alt="GIF CutCat" width="150">
