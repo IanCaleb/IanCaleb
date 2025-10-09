@@ -195,6 +195,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
+<img src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/snake.svg" alt="Snake animation" />
 <!--
 <picture>
   <source media="(preference-color-scheme: dark)" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake-dark.svg" />
