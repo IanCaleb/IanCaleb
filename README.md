@@ -17,7 +17,7 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 ---
 
 <div>
-<img align="right" src="Gif_Naruto_Read_Me.gif" width="500"/>
+<img align="right" src="Gif_Naruto_Read_Me.gif" width="300"/>
 <div align="left">
   <img 
     width="400px" 
