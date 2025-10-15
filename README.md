@@ -1,17 +1,43 @@
-# 👩🏻‍💻 Ian Caleb
+#  Ian Caleb 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1200&color=2ECC71&center=true&vCenter=true&width=460&lines=👩🏻‍💻+Ian+Caleb+-+Desenvolvedor+Fullstack;" alt="Typing animation" /> 
 
-**`Desenvolvedor FullStack`**
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-        <td width="70%" style="border: none;">
-            Me chamo Ian Caleb, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap-CE. Sempre fui apaixonado por desafios que me façam pensar de forma criativa para soluciona-los e encontrei na programação o ambiente perfeito para achar esse tipo de desafios.
-        </td>
-        <td width="30%" align="right" style="border: none;">
-            <img src="CutCat.gif" alt="GIF CutCat" width="150">
-        </td>
-    </tr>
-</table>
+<img align="left" src="https://png.pngtree.com/png-vector/20240715/ourmid/pngtree-male-profile-icon-in-black-on-a-white-background-vector-png-image_7058986.png" width="200" />
+
+Me chamo Ian Caleb, tenho 20 anos e atualmente curso Sistemas de Informação na UniFap-CE.    
+
+Sempre fui apaixonado por desafios que me fazem pensar de forma criativa para solucioná-los e encontrei na programação o ambiente perfeito para isso.
+Tenho foco em desenvolvimento web e DevOps, atuando como desenvolvedor full stack.    
+
+Meus fundamentos são PHP, MySQL, JavaScript, HTML e CSS, e tenho experiência com frameworks como React, Laravel e Tailwind. Também já explorei diversas outras tecnologias, priorizando sempre compreender os conceitos por trás das ferramentas, o que me permite aprender e me adaptar com rapidez a novas demandas.
+
+Meu maior objetivo é me tornar alguém essencial para o ecossistema em que atuo, contribuindo de forma relevante para a equipe e para os projetos que abraço.
+Gosto de transformar regras de negócio em código, aprender de forma constante e colaborar em ambientes que valorizam criatividade, trabalho em equipe e boas ideias.
+
+<br/><br/>
+
+---
+
+## Apresentação
+
+```php
+use Talentos\Excelencia;
+use Talentos\Flexibilidade;
+use Talentos\Curiosidade;
+use Talentos\Resiliencia;
+
+
+
+function App() {
+  return <Component />
+}
+
+$Ian = new programmer()
+```
+
+
+        
 
 
 <p>
