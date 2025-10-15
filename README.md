@@ -16,22 +16,27 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 
 ---
 
-<div>
-<img align="right" src="Gif_Naruto_Read_Me.gif" width="300"/>
-<div align="left">
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <div>
+    <img 
+      width="400px" 
+      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <br/>
+    <img 
+      width="400px" 
+      alt="Top Langs" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </div>
+
   <img 
-    width="400px" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <br/>
-  <img 
-    width="400px" 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="Gif_Naruto_Read_Me.gif" 
+    width="300px" 
+    alt="Gif Naruto"
   />
 </div>
-<div/>
 
 ## Apresentação
 
