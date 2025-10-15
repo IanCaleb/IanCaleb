@@ -16,27 +16,22 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 
 ---
 
-<img align="center" src="Gif_Naruto_Read_Me.gif" width="300" />
-
-<br/>
-
-<div align="center" width="1000">
-  <img
-    align="center"
-    width="500"
+<div>
+<img align="right" src="Gif_Naruto_Read_Me.gif" width="500"/>
+<div align="left">
+  <img 
+    width="400px" 
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <br/>
   <img 
-    align="center"
-    width="500"
-    alt="GitHub Stats" 
+    width="400px" 
+    alt="Top Langs" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>  
-
-
+</div>
+<div/>
 
 ## Apresentação
 
@@ -218,15 +213,3 @@ $Ian = new programmer()
 
 
 <img src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/snake.svg" alt="Snake animation" />
-<!--
-<picture>
-  <source media="(preference-color-scheme: dark)" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake-dark.svg" />
-  <source media="(preference-color-scheme: light)" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/github-snake.svg">
-<picture>
--->
-
-
-
-
-
