@@ -14,9 +14,9 @@ Meus fundamentos são PHP, MySQL, JavaScript, HTML e CSS, e tenho experiência c
 Meu maior objetivo é me tornar alguém essencial para o ecossistema em que atuo, contribuindo de forma relevante para a equipe e para os projetos que abraço.
 Gosto de transformar regras de negócio em código, aprender de forma constante e colaborar em ambientes que valorizam criatividade, trabalho em equipe e boas ideias.
 
-<br/><br/>
-
 ---
+
+<img align="left" src="download.png" width="200" />
 
 ## Apresentação
 
