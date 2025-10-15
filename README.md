@@ -22,19 +22,21 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 
 <div>
   <img
-    align="left"
+    align="center"
+    width="1000"
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  
+  <br/>
   <img 
-    align="right"
+    align="center"
+    width="1000"
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>  
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ## Apresentação
 
