@@ -16,7 +16,20 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 
 ---
 
-<img align="left" src="download.png" width="200" />
+<img align="left" src="Gif_Naruto_Read_Me.gif" width="300" />
+
+
+<div align="right">
+  <img
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  
+  <img 
+      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>  
 
 ## Apresentação
 
@@ -196,30 +209,6 @@ $Ian = new programmer()
 
 
 
-
-
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<div>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
 
 <img src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/snake.svg" alt="Snake animation" />
 <!--
