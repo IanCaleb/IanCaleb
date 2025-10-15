@@ -20,7 +20,7 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 
 <br/>
 
-<div>
+<div align="center" width="1000">
   <img
     align="center"
     width="500"
