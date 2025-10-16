@@ -1,5 +1,30 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1200&color=2ECC71&center=true&vCenter=true&width=460&lines=👩🏻‍💻+Ian+Caleb+-+Desenvolvedor+Fullstack;" alt="Typing animation" /> 
 
+<p>
+  <a href="https://github.com/IanCaleb?tab=repositories">
+    <img 
+      alt="Repositorios" 
+      title="Repositorios"
+      src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+    />
+  </a>
+  <a>
+    <img 
+      alt="Localização" 
+      title="Localização"
+      src="https://custom-icon-badges.demolab.com/badge/Juazeiro-CE-blue?style=for-the-badge&logo=location&logoColor=white"
+    />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivusaw1227@gmail.com&su=Contato%20do%20GitHub&body=Olá,%20vim%20pelo%20seu%20github%20e%20gostaria%20de%20falar%20sobre...">
+    <img
+      alt="Email"
+      title="Email"
+      src="https://custom-icon-badges.demolab.com/badge/My%20Email-E61B23.svg?logo=mail"
+      width="110"
+      >
+  </a>
+</p>
+
 ---
 
 <img align="left" src="dragao_Agua.gif" width="300" />
@@ -42,46 +67,6 @@ function App() {
 
 $Ian = new programmer()
 ```
-
-
-        
-
-
-<p>
-  <a href="https://github.com/IanCaleb?tab=repositories">
-    <img 
-      alt="Repositorios" 
-      title="Repositorios"
-      src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-    />
-  </a>
-  <a>
-    <img 
-      alt="Localização" 
-      title="Localização"
-      src="https://custom-icon-badges.demolab.com/badge/Juazeiro-CE-blue?style=for-the-badge&logo=location&logoColor=white"
-    />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivusaw1227@gmail.com&su=Contato%20do%20GitHub&body=Olá,%20vim%20pelo%20seu%20github%20e%20gostaria%20de%20falar%20sobre...">
-    <img
-      alt="Email"
-      title="Email"
-      src="https://custom-icon-badges.demolab.com/badge/My%20Email-E61B23.svg?logo=mail"
-      width="110"
-      >
-  </a>
-  <br>
-    <img
-      alt="Lest-commit" 
-      title="Lest-commit"
-      src="https://custom-icon-badges.demolab.com/github/last-commit/IanCaleb/IanCaleb?logo=history&logoColor=white"
-      height="25"
-    />
-
-  
-</p>
-
-
 
 ---
 
