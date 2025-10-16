@@ -2,7 +2,7 @@
 
 ---
 
-<img align="left" src="https://cdn.pixabay.com/photo/2023/10/03/10/39/ai-generated-8291190_640.png" width="200" />
+<img align="left" src="dragao_Agua.gif" width="400" />
 
 Me chamo Ian Caleb, tenho 20 anos e atualmente curso Sistemas de Informação na UniFap-CE.    
 
