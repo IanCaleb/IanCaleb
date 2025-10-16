@@ -195,12 +195,12 @@ $Ian = new programmer()
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-end;">
   <div>
     <img 
-      width="400px" 
+      width="380px" 
       alt="Top Langs" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
     <img 
-      width="400px" 
+      width="380px" 
       alt="GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
