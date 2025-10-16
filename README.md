@@ -16,27 +16,12 @@ Gosto de transformar regras de negócio em código, aprender de forma constante 
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <div>
-    <img 
-      width="400px" 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <br/>
-    <img 
-      width="400px" 
-      alt="Top Langs" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-  </div>
+<img src="Kuma.gif" align="right"/>
 
-  <img 
-    src="Gif_Naruto_Read_Me.gif" 
-    width="300px" 
-    alt="Gif Naruto"
-  />
-</div>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 
 ## Apresentação
 
@@ -218,3 +203,18 @@ $Ian = new programmer()
 
 
 <img src="https://raw.githubusercontent.com/IanCaleb/IanCaleb/output/snake.svg" alt="Snake animation" />
+
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <div>
+    <img 
+      width="400px" 
+      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=IanCaleb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <br/>
+    <img 
+      width="400px" 
+      alt="Top Langs" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCaleb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </div>
